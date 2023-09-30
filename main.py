@@ -1,3 +1,4 @@
+# https://codingchallenges.fyi/challenges/challenge-wc
 import typer
 from typing_extensions import Annotated
 from rich import print as rprint
